@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RushbhXD
 - 👀 I’m interested in web development and coding in general
 - 🌱 I’m currently learning full stack web development 
-- 💞️ I’m looking to collaborate on ...
 - 📫 email - rushbhmistry20004@gmail.com
 
 <!---
