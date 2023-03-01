@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @RushbhXD
-- 👀 I’m interested in web development and coding in general
 - 📫 email - rushbhmistry20004@gmail.com
 
 <!---
